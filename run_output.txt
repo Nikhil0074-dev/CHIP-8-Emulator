@@ -1,0 +1,5 @@
+[CHIP-8] Loaded ROM: assets/roms/test_opcode.ch8 (36 bytes)
+[Display] Running in headless/stub mode (SDL2 not available).
+[Main] Emulator running. ESC or close window to quit.
+[Main] Headless test done (1000 cycles).
+[Main] Exited after 1000 cycles.
